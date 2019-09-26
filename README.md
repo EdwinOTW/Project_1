@@ -1,12 +1,12 @@
 # Project_1
 
-## Problem Statement
+## 1) Problem Statement
 
 How to increase the participation rate for SAT and ACT exams among graduates in Alaska.
 
 These are the step taken to solve the problem.
 
-## 2017 Data Import and Cleaning
+## 2) 2017 Data Import and Cleaning
 #### 1. Read In SAT & ACT  Data
 #### 2. Display Data
 #### 3. Fix any errors you identified
@@ -35,7 +35,7 @@ These are the step taken to solve the problem.
 #### 9. Drop unnecessary rows
 #### 10. Merge Dataframes
 
-## 2018 Data Import and Cleaning
+## 3) 2018 Data Import and Cleaning
 #### 1. Read In SAT & ACT  Data
 #### 2. Display Data
 #### 3. Fix any errors you identified
@@ -64,7 +64,7 @@ These are the step taken to solve the problem.
 #### 9. Drop unnecessary rows
 #### 10. Merge Dataframes
 
-## Exploratory Data Analysis
+## 4) Exploratory Data Analysis
 
 ### Summary Statistics
 - Looking at all the datatypes in the marged dataframe
@@ -77,7 +77,7 @@ These are the step taken to solve the problem.
     - 2017 ACT?
     - 2018 ACT?
     
-## Visualize the data
+## 5) Visualize the data
 #### Use Seaborn's heatmap with pandas .corr() to visualize correlations between all numeric features
 - Plot and interpret histograms
   - Participation rates for SAT & ACT
@@ -102,7 +102,7 @@ These are the step taken to solve the problem.
 #### Scatter Plot (ACT Participation vs Composite Scores)
 #### Scatter Plot (SAT Participation vs Total Scores)
 
-## Plots to support Descriptive and Inferential Section
+## 6) Plots to support Descriptive and Inferential Section
 
 ## Descriptive and Inferential Statistics
 #### Summarizing Distributions
@@ -118,9 +118,9 @@ Suppose we only seek to understand the relationship between SAT and ACT particip
 ##### Is it appropriate to compare *these* specific SAT and ACT math scores? 
 #### Statistical Evaluation of Distributions 
 
-## Outside Research
+## 7) Outside Research
 
-## Conclusions and Recommendations
+## 8) Conclusions and Recommendations
 
 ##References/Useful Links
 
