@@ -123,14 +123,25 @@ Suppose we only seek to understand the relationship between SAT and ACT particip
 ## Conclusions and Recommendations
 
 ##References/Useful Links
+
 http://library.ucmerced.edu/node/10249
+
 https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html
+
 https://matplotlib.org/tutorials/introductory/pyplot.html
+
 https://www.dispatch.com/news/20170228/ohio-schools-must-now-give-act-or-sat-to-all-juniors
+
 https://www.testive.com/colorado-sat-change-2017/
+
 https://www.chalkbeat.org/posts/co/2015/12/23/goodbye-act-hello-sat-a-significant-change-for-colorado-high-schoolers/
+
 https://www.edweek.org/ew/section/multimedia/states-require-students-take-sat-or-act.html
+
 https://www.adn.com/alaska-news/education/2016/06/30/students-no-longer-need-national-tests-to-graduate/
+
 https://www.orlandosentinel.com/news/education/os-ne-act-sat-florida-scores-20181024-story.html
+
 https://blog.prepscholar.com/act-scores-by-state-averages-highs-and-lows
+
 https://blog.collegevine.com/here-are-the-average-sat-scores-by-state/
